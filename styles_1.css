@@ -80,3 +80,18 @@
     background-color:rgb(73, 161, 147);
     color: white;
 }
+
+/*#navbarNavDropdown {
+    background-color: white;
+}*/
+
+#navbartop {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+@media (max-width: 750px) {
+    #navbartop {
+        background-color: rgb(73, 161, 147);
+    }
+}

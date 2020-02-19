@@ -111,3 +111,15 @@
 #data_table {
     padding-top: 30px;
 }
+
+
+#navbartop {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+@media (max-width: 750px) {
+    #navbartop {
+        background-color: rgb(73, 161, 147);
+    }
+}
